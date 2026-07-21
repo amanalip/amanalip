@@ -39,4 +39,4 @@
 
 ---
 
-*⚡ Fun Fact:* Big fan of text-based ASCII mind maps for visual architecture planning and standalone fantasy novels.
+*⚡ Fun Fact:* Big fan of text-based ASCII mind maps for visual architecture planning and software development.
