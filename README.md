@@ -34,7 +34,7 @@
 ### 📫 Connect & Find Me
 
 * ✍️ **HackerNoon:** Read my latest articles on system design and software engineering.
-* 💼 **LinkedIn:** [[https://www.linkedin.com/in/amanali1/]](https://www.linkedin.com/in/amanali1/)
+* 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/amanali1/)
 * 🐙 **GitHub:** You're already here!
 
 ---
