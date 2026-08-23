@@ -17,11 +17,11 @@ My work has focused on improving deployment processes, automating operational wo
 
 A browser-based Python learning platform that turns program execution into a step-by-step visual experience.
 
-Learners can write or paste Python code, run it, and inspect how the program behaves one instruction at a time. The workspace helps explain which lines ran, how variables changed, which branches were selected, how loops progressed, what happened inside functions, and why an error occurred.
+Learners can write or paste Python code, run it, and inspect how the program behaves one instruction at a time. The main Python workspace includes 134 programs and helps explain which lines ran, how variables changed, which branches were selected, how loops progressed, what happened inside functions, and why an error occurred.
 
 The project includes execution tracing, variable and data-structure views, control-flow analysis, replay breakpoints, code coverage, loop inspection, input comparisons, trace bookmarks, automatic learning comments, and guided debugging tools.
 
-Code Explorer also includes a separate Python Data Structures and Algorithms workspace with hundreds of reviewed programs and dedicated learning views for topics such as searching, sorting, linked structures, trees, graphs, recursion, dynamic programming, and other core algorithmic concepts.
+Code Explorer also includes a separate Python Data Structures and Algorithms workspace with 535 reviewed and executable programs across 25 curriculum sections. It provides 18 learning views across Trace, Data, Flow, and Labs for exploring data structures, algorithm behaviour, complexity, execution state, and input-driven changes.
 
 Python runs privately in the browser, so learners do not need an account, server workspace, or local project setup.
 
