@@ -17,6 +17,7 @@ Alongside my professional work, I build open-source software across developer to
 
 * [PipeViz](https://github.com/amanalip/PipeViz)
 * [Token Trail](https://github.com/amanalip/tokentrail)
+* [APIatomy](https://github.com/amanalip/APIatomy)
 * [Code Explorer](https://github.com/amanalip/code-explorer)
 * [Termodoro](https://github.com/amanalip/Termodoro)
 * [TermLeaf](https://github.com/amanalip/TermLeaf)
