@@ -15,14 +15,14 @@ Alongside my professional work, I build open-source software across developer to
 
 ## Recent Open-Source Projects
 
-* [PipeViz](https://github.com/amanalip/PipeViz)
-* [Token Trail](https://github.com/amanalip/tokentrail)
 * [APIatomy](https://github.com/amanalip/APIatomy)
-* [SQLens](https://github.com/amanalip/SQLens)
-* [Code Explorer](https://github.com/amanalip/code-explorer)
-* [Termodoro](https://github.com/amanalip/Termodoro)
-* [TermLeaf](https://github.com/amanalip/TermLeaf)
 * [cloudservs](https://github.com/amanalip/cloudservs)
+* [Code Explorer](https://github.com/amanalip/code-explorer)
+* [PipeViz](https://github.com/amanalip/PipeViz)
+* [SQLens](https://github.com/amanalip/SQLens)
+* [TermLeaf](https://github.com/amanalip/TermLeaf)
+* [Termodoro](https://github.com/amanalip/Termodoro)
+* [Token Trail](https://github.com/amanalip/tokentrail)
 
 Each project repository contains its current documentation, implementation status, architecture, and development notes.
 
