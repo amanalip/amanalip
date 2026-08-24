@@ -15,14 +15,14 @@ Alongside my professional work, I build open-source software across developer to
 
 ## Recent Open-Source Projects
 
-* [APIatomy](https://github.com/amanalip/APIatomy)
-* [cloudservs](https://github.com/amanalip/cloudservs)
-* [Code Explorer](https://github.com/amanalip/code-explorer)
-* [PipeViz](https://github.com/amanalip/PipeViz)
-* [SQLens](https://github.com/amanalip/SQLens)
+* [APIatomy](https://github.com/amanalip/APIatomy) - [Website](https://amanalip.github.io/APIatomy/)
+* [cloudservs](https://github.com/amanalip/cloudservs) - [Website](https://amanalip.github.io/cloudservs/)
+* [Code Explorer](https://github.com/amanalip/code-explorer) - [Website](https://amanalip.github.io/code-explorer/)
+* [PipeViz](https://github.com/amanalip/PipeViz) - [Website](https://amanalip.github.io/PipeViz/)
+* [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/)
 * [TermLeaf](https://github.com/amanalip/TermLeaf)
-* [Termodoro](https://github.com/amanalip/Termodoro)
-* [Token Trail](https://github.com/amanalip/tokentrail)
+* [Termodoro](https://github.com/amanalip/Termodoro) - [Website](https://amanalip.github.io/Termodoro/)
+* [Token Trail](https://github.com/amanalip/tokentrail) - [Website](https://amanalip.github.io/tokentrail/)
 
 Each project repository contains its current documentation, implementation status, architecture, and development notes.
 
