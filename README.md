@@ -20,22 +20,22 @@ Alongside my professional work, I build open-source software across developer to
 * [Code Explorer](https://github.com/amanalip/code-explorer) - [Website](https://amanalip.github.io/code-explorer/) - A browser-based learning tool for stepping through Python execution and exploring data structures and algorithms.
 * [CommitFlow](https://github.com/amanalip/CommitFlow) - [Website](https://amanalip.github.io/CommitFlow/) - An in-browser Git playground that visualizes commits, branches, and repository state as commands run.
 * [PipeViz](https://github.com/amanalip/PipeViz) - [Website](https://amanalip.github.io/PipeViz/) - A browser-based Jenkinsfile visualizer that turns pipeline definitions into interactive graphs.
-* [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/) - A browser-based SQL tool for visualizing query data flow and running queries against in-browser databases.
+* [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/) - A browser-based SQL tool for visualizing query data flow and running queries against SQLite databases in the browser.
 * [TermLeaf](https://github.com/amanalip/TermLeaf) - A terminal-based reader designed for distraction-free reading from the command line.
 * [Termodoro](https://github.com/amanalip/Termodoro) - [Website](https://amanalip.github.io/Termodoro/) - A keyboard-driven Pomodoro timer and task manager built for the terminal.
 * [Token Trail](https://github.com/amanalip/tokentrail) - [Website](https://amanalip.github.io/tokentrail/) - A privacy-first desktop dashboard for understanding Codex usage, quotas, and related metrics.
 
-Each project repository contains its current documentation, implementation status, architecture, and development notes.
+Each project repository contains its own documentation and project details.
 
 ## Professional Background
 
-Previously, at Lucid Motors, I worked on over-the-air software deployment systems for electric vehicles and supported software distribution and validation workflows used by service teams across North America, Europe, and the Middle East.
+Previously, at Lucid Motors, I worked on DevOps and over-the-air software applications, including requirements gathering and automation validation.
 
-My work has also included technical documentation, troubleshooting, onboarding, mentorship, and cross-functional collaboration.
+My work has also included technical documentation, troubleshooting, and cross-functional collaboration.
 
 ## Writing and Speaking
 
-Outside engineering, I write about technology and have published work covering areas including blockchain and artificial intelligence. I have also spoken at technology and blockchain events, including Technology Excellence Week.
+Outside engineering, I write about technology, including DevOps and blockchain. I have also spoken at national blockchain and technology conferences.
 
 ## Current Interests
 
