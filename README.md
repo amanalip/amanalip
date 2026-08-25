@@ -15,15 +15,15 @@ Alongside my professional work, I build open-source software across developer to
 
 ## Recent Open-Source Projects
 
-* [APIatomy](https://github.com/amanalip/APIatomy) - [Website](https://amanalip.github.io/APIatomy/)
-* [cloudservs](https://github.com/amanalip/cloudservs) - [Website](https://amanalip.github.io/cloudservs/)
-* [Code Explorer](https://github.com/amanalip/code-explorer) - [Website](https://amanalip.github.io/code-explorer/)
-* [CommitFlow](https://github.com/amanalip/CommitFlow) - [Website](https://amanalip.github.io/CommitFlow/)
-* [PipeViz](https://github.com/amanalip/PipeViz) - [Website](https://amanalip.github.io/PipeViz/)
-* [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/)
-* [TermLeaf](https://github.com/amanalip/TermLeaf)
-* [Termodoro](https://github.com/amanalip/Termodoro) - [Website](https://amanalip.github.io/Termodoro/)
-* [Token Trail](https://github.com/amanalip/tokentrail) - [Website](https://amanalip.github.io/tokentrail/)
+* [APIatomy](https://github.com/amanalip/APIatomy) - [Website](https://amanalip.github.io/APIatomy/) - A client-side visual explorer for OpenAPI and Swagger specifications.
+* [cloudservs](https://github.com/amanalip/cloudservs) - [Website](https://amanalip.github.io/cloudservs/) - A visual learning platform for understanding cloud concepts across AWS, Azure, and Google Cloud.
+* [Code Explorer](https://github.com/amanalip/code-explorer) - [Website](https://amanalip.github.io/code-explorer/) - A browser-based learning tool for stepping through Python execution and exploring data structures and algorithms.
+* [CommitFlow](https://github.com/amanalip/CommitFlow) - [Website](https://amanalip.github.io/CommitFlow/) - An in-browser Git playground that visualizes commits, branches, and repository state as commands run.
+* [PipeViz](https://github.com/amanalip/PipeViz) - [Website](https://amanalip.github.io/PipeViz/) - A browser-based Jenkinsfile visualizer that turns pipeline definitions into interactive graphs.
+* [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/) - A browser-based SQL tool for visualizing query data flow and running queries against in-browser databases.
+* [TermLeaf](https://github.com/amanalip/TermLeaf) - A terminal-based reader designed for distraction-free reading from the command line.
+* [Termodoro](https://github.com/amanalip/Termodoro) - [Website](https://amanalip.github.io/Termodoro/) - A keyboard-driven Pomodoro timer and task manager built for the terminal.
+* [Token Trail](https://github.com/amanalip/tokentrail) - [Website](https://amanalip.github.io/tokentrail/) - A privacy-first desktop dashboard for understanding Codex usage, quotas, and related metrics.
 
 Each project repository contains its current documentation, implementation status, architecture, and development notes.
 
