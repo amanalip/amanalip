@@ -21,6 +21,7 @@ Alongside my professional work, I build open-source software across developer to
 * [CommitFlow](https://github.com/amanalip/CommitFlow) - [Website](https://amanalip.github.io/CommitFlow/) - An in-browser Git playground that visualizes commits, branches, and repository state as commands run.
 * [PipeViz](https://github.com/amanalip/PipeViz) - [Website](https://amanalip.github.io/PipeViz/) - A browser-based Jenkinsfile visualizer that turns pipeline definitions into interactive graphs.
 * [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/) - A browser-based SQL tool for visualizing query data flow and running queries against SQLite databases in the browser.
+* [SysSim](https://github.com/amanalip/SysSim) - [Website](https://amanalip.github.io/SysSim/) - An interactive system design platform for building architectures, simulating traffic and failures, and practicing design scenarios.
 * [TermLeaf](https://github.com/amanalip/TermLeaf) - A terminal-based reader designed for distraction-free reading from the command line.
 * [Termodoro](https://github.com/amanalip/Termodoro) - [Website](https://amanalip.github.io/Termodoro/) - A keyboard-driven Pomodoro timer and task manager built for the terminal.
 * [Token Trail](https://github.com/amanalip/tokentrail) - [Website](https://amanalip.github.io/tokentrail/) - A privacy-first desktop dashboard for understanding Codex usage, quotas, and related metrics.
