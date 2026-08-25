@@ -18,7 +18,7 @@ Alongside my professional work, I build open-source software across developer to
 * [APIatomy](https://github.com/amanalip/APIatomy) - [Website](https://amanalip.github.io/APIatomy/)
 * [cloudservs](https://github.com/amanalip/cloudservs) - [Website](https://amanalip.github.io/cloudservs/)
 * [Code Explorer](https://github.com/amanalip/code-explorer) - [Website](https://amanalip.github.io/code-explorer/)
-* [CommitFlow](https://github.com/amanalip/CommitFlow)
+* [CommitFlow](https://github.com/amanalip/CommitFlow) - [Website](https://amanalip.github.io/CommitFlow/)
 * [PipeViz](https://github.com/amanalip/PipeViz) - [Website](https://amanalip.github.io/PipeViz/)
 * [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/)
 * [TermLeaf](https://github.com/amanalip/TermLeaf)
