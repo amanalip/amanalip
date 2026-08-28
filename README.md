@@ -22,6 +22,7 @@ Alongside my professional work, I build open-source software across developer to
 * [MockMarket](https://github.com/amanalip/MockMarket) - [Website](https://amanalip.github.io/MockMarket/) - A historical market simulation and algorithmic backtesting platform for paper trading, strategy testing, and financial education.
 * [Motivate Me](https://github.com/amanalip/motivate-me) - [Website](https://amanalip.github.io/motivate-me/) - A mobile-first website that presents a carefully selected positive quote on each visit.
 * [PipeViz](https://github.com/amanalip/PipeViz) - [Website](https://amanalip.github.io/PipeViz/) - A browser-based Jenkinsfile visualizer that turns pipeline definitions into interactive graphs.
+* [PodTrace](https://github.com/amanalip/PodTrace) - [Website](https://amanalip.github.io/PodTrace/) - A browser-based Kubernetes visualizer that shows how cluster components process a YAML manifest step by step.
 * [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/) - A browser-based SQL tool for visualizing query data flow and running queries against SQLite databases in the browser.
 * [SysSim](https://github.com/amanalip/SysSim) - [Website](https://amanalip.github.io/SysSim/) - An interactive system design platform for building architectures, simulating traffic and failures, and practicing design scenarios.
 * [TermLeaf](https://github.com/amanalip/TermLeaf) - A terminal-based reader designed for distraction-free reading from the command line.
