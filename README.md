@@ -21,6 +21,7 @@ Alongside my professional work, I build open-source software across developer to
 * [CommitFlow](https://github.com/amanalip/CommitFlow) - [Website](https://amanalip.github.io/CommitFlow/) - An in-browser Git playground that visualizes commits, branches, and repository state as commands run.
 * [MockMarket](https://github.com/amanalip/MockMarket) - [Website](https://amanalip.github.io/MockMarket/) - A historical market simulation and algorithmic backtesting platform for paper trading, strategy testing, and financial education.
 * [Motivate Me](https://github.com/amanalip/motivate-me) - [Website](https://amanalip.github.io/motivate-me/) - A mobile-first website that presents a carefully selected positive quote on each visit.
+* [NeuronFlow](https://github.com/amanalip/NeuronFlow) - [Website](https://amanalip.github.io/NeuronFlow/) - A browser-based interactive visual guide to neural networks, transformers, and large language models.
 * [PipeViz](https://github.com/amanalip/PipeViz) - [Website](https://amanalip.github.io/PipeViz/) - A browser-based Jenkinsfile visualizer that turns pipeline definitions into interactive graphs.
 * [PodTrace](https://github.com/amanalip/PodTrace) - [Website](https://amanalip.github.io/PodTrace/) - A browser-based Kubernetes visualizer that shows how cluster components process a YAML manifest step by step.
 * [SQLens](https://github.com/amanalip/SQLens) - [Website](https://amanalip.github.io/SQLens/) - A browser-based SQL tool for visualizing query data flow and running queries against SQLite databases in the browser.
