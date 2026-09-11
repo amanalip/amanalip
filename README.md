@@ -16,7 +16,6 @@ Alongside my professional work, I build open-source software across developer to
 ## Recent Open-Source Projects
 
 * [APIatomy](https://github.com/amanalip/APIatomy) - [Website](https://amanalip.github.io/APIatomy/) - A client-side visual explorer for OpenAPI and Swagger specifications.
-* [cloudservs](https://github.com/amanalip/cloudservs) - [Website](https://amanalip.github.io/cloudservs/) - A visual learning platform for understanding cloud concepts across AWS, Azure, and Google Cloud.
 * [Code Explorer](https://github.com/amanalip/code-explorer) - [Website](https://amanalip.github.io/code-explorer/) - A browser-based learning tool for stepping through Python execution and exploring data structures and algorithms.
 * [CommitFlow](https://github.com/amanalip/CommitFlow) - [Website](https://amanalip.github.io/CommitFlow/) - An in-browser Git playground that visualizes commits, branches, and repository state as commands run.
 * [MockMarket](https://github.com/amanalip/MockMarket) - [Website](https://amanalip.github.io/MockMarket/) - A historical market simulation and algorithmic backtesting platform for paper trading, strategy testing, and financial education.
